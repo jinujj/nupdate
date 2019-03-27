@@ -1,0 +1,21 @@
+{
+  "name": "nupdate",
+  "version": "1.0.0",
+  "description": "Update the node package.json",
+  "main": "index.js",
+  "bin": {
+    "nupdate": "index.js"
+  },
+  "scripts": {
+    "test": "echo 'nupdate test'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caporal": "^1.1.0",
+    "colors": "^1.3.3",
+    "npm-check-updates": "^3.1.1",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
