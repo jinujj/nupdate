@@ -1,6 +1,6 @@
 # nupdate
 
-Added a cli tool to update the package.json in any project
+Added a cli tool to update the package.json in any project. Many times it was come into my notice there is no interactive way of updating the package version. ```nupdate``` is a library provided to help with this.
 
 # Usage
 
